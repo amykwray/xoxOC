@@ -1,10 +1,10 @@
 # xoxOC
 a color palette inspired by characters from The OC and Gossip Girl
 
-OC palette:
+OC:
 -------------
 ![Image](OC_pal.png)
 
-GG palette:
+GG:
 -------------
 ![Image](xoxo_pal.png)
